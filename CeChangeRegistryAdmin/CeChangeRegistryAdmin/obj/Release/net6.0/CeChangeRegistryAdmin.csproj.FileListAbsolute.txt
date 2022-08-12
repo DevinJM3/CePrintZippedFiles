@@ -1,0 +1,15 @@
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\bin\Release\net6.0\CeChangeRegistryAdmin.exe
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\bin\Release\net6.0\CeChangeRegistryAdmin.deps.json
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\bin\Release\net6.0\CeChangeRegistryAdmin.runtimeconfig.json
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\bin\Release\net6.0\CeChangeRegistryAdmin.dll
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\bin\Release\net6.0\CeChangeRegistryAdmin.pdb
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\obj\Release\net6.0\CeChangeRegistryAdmin.csproj.AssemblyReference.cache
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\obj\Release\net6.0\CeChangeRegistryAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\obj\Release\net6.0\CeChangeRegistryAdmin.AssemblyInfoInputs.cache
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\obj\Release\net6.0\CeChangeRegistryAdmin.AssemblyInfo.cs
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\obj\Release\net6.0\CeChangeRegistryAdmin.csproj.CoreCompileInputs.cache
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\obj\Release\net6.0\CeChangeRegistryAdmin.dll
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\obj\Release\net6.0\refint\CeChangeRegistryAdmin.dll
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\obj\Release\net6.0\CeChangeRegistryAdmin.pdb
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\obj\Release\net6.0\CeChangeRegistryAdmin.genruntimeconfig.cache
+C:\Users\DevinMarx\source\repos\CePrintZippedFile\CeChangeRegistryAdmin\CeChangeRegistryAdmin\obj\Release\net6.0\ref\CeChangeRegistryAdmin.dll
